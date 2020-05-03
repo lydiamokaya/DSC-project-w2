@@ -15,23 +15,24 @@
      Reduction techniques:Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA).
 
      Mutiple Linear Regression Analysis.
-###Experimental Design
+     
+### Experimental Design
 Exploratory Data Analysis.
 Hypothesis Testing
-###Installation Requirements
+### Installation Requirements
 Google colab/jupyter notebook
 Python basics
 python libraries
 Github
-###Known Bugs
+### Known Bugs
 (There are no known bugs in this project.)
 ###Technologies Used
 {Python}
-###Support and contact details
+### Support and contact details
 {Any issues, questions,ideas,concerns,or contributions to the code are highly encouraged.
 
 Contacts: mokayalydiak@gmail.com}
-###License
+### License
 {MIT License.See below for more details on licencing.}
 
 Copyright(c) {2020}{Moringa School Data Science core}
