@@ -1,2 +1,2 @@
-# DSC-project-w1
+# Moringa_Data_Science_Core_W2_Independent_Project_2020_Lydia_Kerubo_Python_Notebook
 Financial Inclusion
