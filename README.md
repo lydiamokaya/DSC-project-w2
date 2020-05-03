@@ -18,15 +18,21 @@
      
 ### Experimental Design
 Exploratory Data Analysis.
+
 Hypothesis Testing
+
 ### Installation Requirements
 Google colab/jupyter notebook
+
 Python basics
+
 python libraries
+
 Github
+
 ### Known Bugs
 (There are no known bugs in this project.)
-###Technologies Used
+### Technologies Used
 {Python}
 ### Support and contact details
 {Any issues, questions,ideas,concerns,or contributions to the code are highly encouraged.
